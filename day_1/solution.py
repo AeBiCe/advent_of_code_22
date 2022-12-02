@@ -23,4 +23,4 @@ for calorie in gathered_calories:
         calories += int(calorie)
 
 elfs.sort()
-print(f"Highest: {elfs[-1]}")
+print(f"Puzzle 01: {elfs[-1]}| Puzzle 02: {sum(elfs[-3:])}")
