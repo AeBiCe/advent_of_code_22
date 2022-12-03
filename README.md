@@ -5,7 +5,7 @@ My solutions for Advent of Code 2022. The solutions will be mainly in Python wit
 | Day | Part 1 | Part 2 |
 |---|---|---|
 | [1](day_1) | ✅ | ✅ |
-| [2](day_2) | ✅ |  |
+| [2](day_2) | ✅ | ✅ |
 | 3 |  |  |
 | 4 |  |  |
 | 5 |  |  |
